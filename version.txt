@@ -1,1 +1,1 @@
-{version: 0.1}, {update_link: https://drive.usercontent.google.com/download?id=1g2HvFoRrcf-Jg3c6apXSFcJlviM8vARg&export=download&authuser=0}, {status: alpha, active-development}, {update_required: 0.1=no}
+{version: 0.3}, {update_link: https://drive.usercontent.google.com/download?id=1g2HvFoRrcf-Jg3c6apXSFcJlviM8vARg&export=download&authuser=0}, {status: alpha, active-development}, {update_required: 0.3=no}
